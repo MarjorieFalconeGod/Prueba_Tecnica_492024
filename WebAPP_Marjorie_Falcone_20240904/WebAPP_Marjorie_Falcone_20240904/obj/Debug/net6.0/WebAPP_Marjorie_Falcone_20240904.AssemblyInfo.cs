@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPP_Marjorie_Falcone_20240904")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5831859331b950603c08ca6fb8174432c57cbb50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86bf70d25c864dba75965eb3ffd222c18cd5cbae")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPP_Marjorie_Falcone_20240904")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPP_Marjorie_Falcone_20240904")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
